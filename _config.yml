@@ -1,12 +1,10 @@
-remote_theme: sighingnow/jekyll-gitbook
-
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            SeongGi Gitbook
+longtitle:        SeongGi Gitbook
+author:           Choi Seong Gi
+email:            linux1547@hanmail.net
 description: >
-  Build Jekyll site with the GitBook style.
+ seonggi GitBook.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -56,7 +54,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-page_width: 800px
+#page_width: 800px
+page_width: 1280px
 
 destination:      ./_site
 incremental:      false
